@@ -1,0 +1,73 @@
+body {
+    background-color:#faf9ed ;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    font-size: 18px;
+    position: relative;
+    width: 960px;
+    
+}
+
+h1{
+   color: white;
+   background-color: #4aaaa5;
+   text-align: center;
+   width: 20%;
+   padding: 20px;
+   margin-top: 10px;
+   margin-right: 20px;
+   float: left
+}
+
+h2{
+    color: #4aaaa5;
+}
+.btn-group {
+    background-color: white;
+    color: #666666;
+    width: 60%;
+    height: 10px;
+    padding-left: 24px;
+    float: right;
+    top: 0;
+    right: 40;
+}
+
+#aboutme {
+    clear: both;
+   background-color: white;
+   width:650px;
+   height: 400px;
+   padding: 40px;
+   margin: 24px;
+   float: left;
+}
+
+
+#connectwithme {
+       clear: both; 
+       width: 270px;
+       height:200px;
+       background-color: white; 
+      float: right;
+   }
+   
+#bio-image {
+    clear: both;
+   margin-right: 20px;
+   width: 200px;
+   height: 200px;
+}
+
+#footer{
+    position: fixed;
+    text-align: center;
+    background-color:#666666;
+    color: white;
+    padding: 40px;
+    border-top-color: #4aaaa5;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    z-index: -10px;
+    
+}
